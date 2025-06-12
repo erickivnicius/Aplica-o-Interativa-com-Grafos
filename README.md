@@ -50,23 +50,6 @@ Cidade de destino: Paraiso
 Palmas -> Paraiso
 ```
 
-## Como executar
-
-1. Clone este repositório:
-
-   ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
-   cd seu-repositorio
-   ```
-
-2. Execute o script:
-
-   ```bash
-   python nome_do_arquivo.py
-   ```
-
-3. Interaja com o menu pelo terminal.
-
 ## Estrutura do Código
 
 * `Edge`: Representa uma conexão entre duas cidades com peso (distância).
